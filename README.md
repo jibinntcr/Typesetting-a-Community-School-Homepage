@@ -1,11 +1,11 @@
-# St Huxley's Community College Website
+# Typesetting a Community School Homepage
 
 ## Author
 - **Author:** JIBIN N
 
 ## Description
 
-This repository contains the HTML and CSS code for the St Huxley's Community College website.
+This repository contains the HTML and CSS code for typesetting a community school homepage.
 
 ## Features
 
@@ -16,4 +16,9 @@ This repository contains the HTML and CSS code for the St Huxley's Community Col
 
 ## Usage
 
-Open `index.html` in a web browser to view the website. 
+Open [index.html](index.html) in a web browser to view the website.
+
+## Links
+
+- **GitHub Repository:** [https://github.com/jibinntcr/Typesetting-a-Community-School-Homepage](https://github.com/jibinntcr/Typesetting-a-Community-School-Homepage)
+- **Live Website:** [https://jibinntcr.github.io/Typesetting-a-Community-School-Homepage/](https://jibinntcr.github.io/Typesetting-a-Community-School-Homepage/)
